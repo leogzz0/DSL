@@ -1,7 +1,7 @@
-#Este archivo reproduce las escala musical en
+#Ejemplo MUTRAN que leera la escala musical
 
-#   DO    RE    MI  FA    SOL     LA     SI
-#   C  C# D  D# E   F  F#  G  G#  A  A#  B
-#   1, 2, 3, 4, 5,  6, 7,  8, 9, 10, 11, 12,
+# DO    RE    MI  FA    SOL     LA     SI
+# C  C# D  D# E   F  F#  G  G#  A  A#  B
+# 1, 2, 3, 4, 5,  6, 7,  8, 9, 10, 11, 12,
 
 instrumento  C3h C#3h D3h D#3h E3h F3h  F#3h  G3h  G#3h  A3h  A#3h  B3h
